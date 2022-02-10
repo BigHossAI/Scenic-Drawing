@@ -1,3 +1,5 @@
+// @author Denver Backus
+
 package com.example.mountainscene;
 
 import androidx.appcompat.app.AppCompatActivity;

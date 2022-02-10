@@ -1,3 +1,4 @@
+// @author Dr. Nuxoll
 package com.example.mountainscene;
 
 import android.graphics.Canvas;

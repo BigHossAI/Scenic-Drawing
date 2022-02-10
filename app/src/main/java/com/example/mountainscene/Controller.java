@@ -1,3 +1,5 @@
+// @author Denver Backus
+
 package com.example.mountainscene;
 
 import static android.graphics.Color.blue;
