@@ -1,5 +1,15 @@
 // @author Dr. Nuxoll
 
+/**
+ External Citation
+ Date: 10 February 2022
+ Problem: Was having trouble creating elements, so I decided to use
+ the starter code.
+
+ Resource:
+ Dr. Nuxoll
+ Solution: I used the optional starter code.
+ */
 
 package com.example.mountainscene;
 

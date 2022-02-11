@@ -26,6 +26,17 @@ public class MountainView extends SurfaceView {
 
     // created custom starting colors for a few elements, can all be changed in the arraylist
     // imported an argb function to convert rgb values into a single integer
+
+    /**
+     External Citation
+     Date: 9 February 2022
+     Problem: Was having trouble creating the colors in android, I was hoping to find
+     something that would accept integers
+
+     Resource:
+     https://developer.android.com/reference/android/graphics/Color
+     Solution: I found a method in android sdk that accomplished this.
+     */
     int skyColor = argb(255, 137, 207, 240);
     int trunkColor = argb(255, 150, 75, 0);
     int bushColor = argb(255, 0, 100, 0);
